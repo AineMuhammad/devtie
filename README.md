@@ -1,8 +1,13 @@
+<img width="1919" height="902" alt="image" src="https://github.com/user-attachments/assets/f02cc599-80cb-4026-b403-32bd99143e97" />
+<img width="1919" height="894" alt="image" src="https://github.com/user-attachments/assets/c134f1a7-6daf-49e6-b1cc-46f317fdc853" />
+<img width="1919" height="901" alt="image" src="https://github.com/user-attachments/assets/497aec32-a3f4-4c3e-8761-243fdf85570c" />
+
+
 # DevTie Landing Page
 
 A modern, responsive landing page for DevTie - a software development and staff augmentation company. Built with React, Vite, and Material-UI, featuring smooth animations, interactive components, and a professional design.
 
-## 🚀 Features
+## Features
 
 - **Modern Design**: Clean, professional UI with Material-UI components
 - **Responsive Layout**: Fully responsive design that works on all devices
@@ -13,7 +18,7 @@ A modern, responsive landing page for DevTie - a software development and staff 
 - **Performance Optimized**: Fast loading with Vite build system
 - **SEO Friendly**: Proper meta tags and semantic HTML structure
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend Framework**: React 18
 - **Build Tool**: Vite
@@ -27,7 +32,7 @@ A modern, responsive landing page for DevTie - a software development and staff 
 - **Contact Forms**: EmailJS, Formspree
 - **Development**: ESLint, TypeScript support
 
-## 📦 Installation
+## Installation
 
 1. **Clone the repository**
 
@@ -51,7 +56,7 @@ A modern, responsive landing page for DevTie - a software development and staff 
 4. **Open your browser**
    Navigate to `http://localhost:5173` to view the application.
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 src/
@@ -72,14 +77,14 @@ src/
 └── main.jsx            # Application entry point
 ```
 
-## 🎨 Available Scripts
+##  Available Scripts
 
 - `npm run dev` - Start development server
 - `npm run build` - Build for production
 - `npm run preview` - Preview production build
 - `npm run lint` - Run ESLint
 
-## 🎯 Key Sections
+##  Key Sections
 
 ### Hero Section
 
@@ -117,7 +122,7 @@ src/
 - EmailJS functionality
 - Professional contact information
 
-## 🎨 Customization
+##  Customization
 
 ### Theme Configuration
 
@@ -148,47 +153,3 @@ The landing page is fully responsive with breakpoints for:
 - Desktop (1024px+)
 - Large screens (1440px+)
 
-## 🚀 Deployment
-
-### Build for Production
-
-```bash
-npm run build
-```
-
-### Deploy Options
-
-- **Vercel**: Connect your repository for automatic deployments
-- **Netlify**: Drag and drop the `dist` folder
-- **GitHub Pages**: Use GitHub Actions for deployment
-- **Traditional hosting**: Upload the `dist` folder to your web server
-
-## 🔧 Environment Variables
-
-Create a `.env` file in the root directory for any API keys or configuration:
-
-```env
-VITE_EMAILJS_PUBLIC_KEY=your_emailjs_public_key
-VITE_EMAILJS_SERVICE_ID=your_emailjs_service_id
-VITE_EMAILJS_TEMPLATE_ID=your_emailjs_template_id
-```
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 📞 Support
-
-For support or questions about this project, please contact the development team or create an issue in the repository.
-
----
-
-**DevTie Landing Page** - Professional software development and staff augmentation services
